@@ -1,0 +1,16 @@
+*.exe
+*.out
+app
+
+*.o
+*.obj
+
+*.dSYM/
+.vscode/
+.idea/
+
+# Bibliotecas estáticas e dinâmicas geradas:
+*.a
+*.lib
+*.so
+*.dll
