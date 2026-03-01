@@ -29,3 +29,7 @@ Todas as funções:
 
 Este é um projeto em estágio inicial, com foco educacional e formativo.
 Novas funcionalidades, validações e melhorias poderão ser adicionadas conforme o avanço dos estudos e das aplicações práticas.
+
+---
+**Autor:** Vitor Sousa,
+Estudante de Engenharia Civil - UFMG
