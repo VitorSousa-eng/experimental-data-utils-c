@@ -1,9 +1,11 @@
-# Objetivo:
+# Experimental Data Utils:
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
   Este projeto tem como objetivo fornecer ferramentas práticas para automatizar o tratamento de dados laboratoriais cotidianos, comuns em disciplinas e atividades de laboratório experimental (como química e física experimental).
 A motivação principal é reduzir cálculos repetitivos feitos manualmente, diminuindo erros humanos e aumentando a produtividade durante a análise de dados experimentais.
 
-# Proposta do projeto:
+## Proposta do projeto:
 
   O projeto foi desenvolvido com foco em clareza, simplicidade e reutilização, seguindo três princípios centrais:
 
